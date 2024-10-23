@@ -1,6 +1,6 @@
-# newapp4
+# Arithmetic App
 
-A new Flutter project.
+A new Flutter project, to demonstrate basic arithmetic operations. This Project was made to obtain an overview on form validation and method extraction in flutter framework.
 
 ## Getting Started
 
